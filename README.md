@@ -7,3 +7,5 @@
 Kaggle – American Sign Language
 
 시도한 모델 : GoogleNet(InceptionV3), ResNet, VGG
+
+자세한 내용은 폴더 안의 발표 PPT 참고
